@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rroga\\OneDrive\\Desktop\\Proyectos\\EnglishCourse1.1\\EnglishCourse1.1\\EnglishCourse1.1.csproj": {}
+    "C:\\Users\\rroga\\fitness\\EnglishCourse1.1\\EnglishCourse1.1\\EnglishCourse1.1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rroga\\OneDrive\\Desktop\\Proyectos\\EnglishCourse1.1\\EnglishCourse1.1\\EnglishCourse1.1.csproj": {
+    "C:\\Users\\rroga\\fitness\\EnglishCourse1.1\\EnglishCourse1.1\\EnglishCourse1.1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rroga\\OneDrive\\Desktop\\Proyectos\\EnglishCourse1.1\\EnglishCourse1.1\\EnglishCourse1.1.csproj",
+        "projectUniqueName": "C:\\Users\\rroga\\fitness\\EnglishCourse1.1\\EnglishCourse1.1\\EnglishCourse1.1.csproj",
         "projectName": "EnglishCourse1.1",
-        "projectPath": "C:\\Users\\rroga\\OneDrive\\Desktop\\Proyectos\\EnglishCourse1.1\\EnglishCourse1.1\\EnglishCourse1.1.csproj",
+        "projectPath": "C:\\Users\\rroga\\fitness\\EnglishCourse1.1\\EnglishCourse1.1\\EnglishCourse1.1.csproj",
         "packagesPath": "C:\\Users\\rroga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rroga\\OneDrive\\Desktop\\Proyectos\\EnglishCourse1.1\\EnglishCourse1.1\\obj\\",
+        "outputPath": "C:\\Users\\rroga\\fitness\\EnglishCourse1.1\\EnglishCourse1.1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
