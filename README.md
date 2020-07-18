@@ -1,13 +1,13 @@
 Puntos logrados
 - Crear api en Netcore(3.1) y consumirla desde angular
 - Crear las tres vistas con angular
-- Mostrar los datos de las tres entidades(GET)
+- GEt,POST,PUT,DELETE de las tres entidades
 - Utilizar Entity FrameWork
 
 Puntos pendientes
-- Agregar(POST),eliminar(DELETE),editar(PUT)*** (Tuve problemas a la hora de enviar parametros o datos desde angular pero al probar con postman funciona correctamente)
-- Join para mostrar los datos de las secciones
+- Join para mostrar los datos de las secciones junto con el curso
 - Validar Campos a enviar
+- Agregarle los cursos a los estudiantes
 
 
 -------------------------------------INSTRUCCIONES SOBRE COMO CORRERLO-------------------------------------
@@ -20,4 +20,5 @@ por la URL que desplega Visual Studio al ejecutar la api
 5 - Ejecutar angular en el puerto 4200 (ng serve --port 4200)
 
 
-PD: Si necesita alguna aclaracion o no logra que le corra el programa se puede comunicar via el correo
+PD: Si necesita alguna aclaracion o no logra que le corra el programa se puede comunicar via el correo.
+PD2: Para realizar un UPDATE(PUT) primero debes hacerle click al registro que quieres modificar.
